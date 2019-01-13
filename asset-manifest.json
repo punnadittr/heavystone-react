@@ -1,14 +1,14 @@
 {
-  "main.css": "/heavystone-react/static/css/main.140e5348.chunk.css",
-  "main.js": "/heavystone-react/static/js/main.73ba9aae.chunk.js",
-  "main.js.map": "/heavystone-react/static/js/main.73ba9aae.chunk.js.map",
-  "static/js/1.4e75c811.chunk.js": "/heavystone-react/static/js/1.4e75c811.chunk.js",
-  "static/js/1.4e75c811.chunk.js.map": "/heavystone-react/static/js/1.4e75c811.chunk.js.map",
-  "runtime~main.js": "/heavystone-react/static/js/runtime~main.78bb5009.js",
-  "runtime~main.js.map": "/heavystone-react/static/js/runtime~main.78bb5009.js.map",
-  "static/media/App.css": "/heavystone-react/static/media/NotoSansThaiUI-Regular.e411cbc8.ttf",
-  "static/css/main.140e5348.chunk.css.map": "/heavystone-react/static/css/main.140e5348.chunk.css.map",
+  "main.css": "/heavystone-react/static/css/main.a68ddaaf.chunk.css",
+  "main.js": "/heavystone-react/static/js/main.198d4f8d.chunk.js",
+  "main.js.map": "/heavystone-react/static/js/main.198d4f8d.chunk.js.map",
+  "runtime~main.js": "/heavystone-react/static/js/runtime~main.0c1f076a.js",
+  "runtime~main.js.map": "/heavystone-react/static/js/runtime~main.0c1f076a.js.map",
+  "static/js/2.c25b563b.chunk.js": "/heavystone-react/static/js/2.c25b563b.chunk.js",
+  "static/js/2.c25b563b.chunk.js.map": "/heavystone-react/static/js/2.c25b563b.chunk.js.map",
   "index.html": "/heavystone-react/index.html",
-  "precache-manifest.7c878aa447279f79212923e1ed243ada.js": "/heavystone-react/precache-manifest.7c878aa447279f79212923e1ed243ada.js",
-  "service-worker.js": "/heavystone-react/service-worker.js"
+  "precache-manifest.355c2b835dbd8b2cde1516d1b95b42e8.js": "/heavystone-react/precache-manifest.355c2b835dbd8b2cde1516d1b95b42e8.js",
+  "service-worker.js": "/heavystone-react/service-worker.js",
+  "static/css/main.a68ddaaf.chunk.css.map": "/heavystone-react/static/css/main.a68ddaaf.chunk.css.map",
+  "static/media/App.css": "/heavystone-react/static/media/NotoSansThaiUI-SemiBold.f2d414f6.ttf"
 }

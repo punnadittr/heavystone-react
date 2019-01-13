@@ -20,23 +20,23 @@ self.__precacheManifest = [
     "url": "/heavystone-react/static/media/NotoSans-Regular.f9493ba9.ttf"
   },
   {
-    "revision": "78bb5009ea56ffb38f48",
-    "url": "/heavystone-react/static/js/runtime~main.78bb5009.js"
+    "revision": "0c1f076ae8629c07cc1f",
+    "url": "/heavystone-react/static/js/runtime~main.0c1f076a.js"
   },
   {
-    "revision": "73ba9aaedba9505488dc",
-    "url": "/heavystone-react/static/js/main.73ba9aae.chunk.js"
+    "revision": "198d4f8dbb36dcd424b6",
+    "url": "/heavystone-react/static/js/main.198d4f8d.chunk.js"
   },
   {
-    "revision": "4e75c81102649ac84132",
-    "url": "/heavystone-react/static/js/1.4e75c811.chunk.js"
+    "revision": "c25b563b726d4c858a23",
+    "url": "/heavystone-react/static/js/2.c25b563b.chunk.js"
   },
   {
-    "revision": "73ba9aaedba9505488dc",
-    "url": "/heavystone-react/static/css/main.140e5348.chunk.css"
+    "revision": "198d4f8dbb36dcd424b6",
+    "url": "/heavystone-react/static/css/main.a68ddaaf.chunk.css"
   },
   {
-    "revision": "462ed862f0f4c2d1e4a6d7001f4fbec0",
+    "revision": "9eaad185d2284bce7d3862317bcda2db",
     "url": "/heavystone-react/index.html"
   }
 ];
