@@ -24,19 +24,19 @@ self.__precacheManifest = [
     "url": "/heavystone-react/static/js/runtime~main.0c1f076a.js"
   },
   {
-    "revision": "b87ae754ecc468418704",
-    "url": "/heavystone-react/static/js/main.b87ae754.chunk.js"
+    "revision": "d4c0b46eb63d29767e4e",
+    "url": "/heavystone-react/static/js/main.d4c0b46e.chunk.js"
   },
   {
-    "revision": "b3d544a379c7d5046596",
-    "url": "/heavystone-react/static/js/2.b3d544a3.chunk.js"
+    "revision": "cd6bf83d3d5d8491f43b",
+    "url": "/heavystone-react/static/js/2.cd6bf83d.chunk.js"
   },
   {
-    "revision": "b87ae754ecc468418704",
+    "revision": "d4c0b46eb63d29767e4e",
     "url": "/heavystone-react/static/css/main.babb7a67.chunk.css"
   },
   {
-    "revision": "307b7d70e26ddb5d66876e81f93f07e3",
+    "revision": "ea19abc3757e87a5e55163ac3ef4da8a",
     "url": "/heavystone-react/index.html"
   }
 ];
