@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/heavystone-react/precache-manifest.c0e37de5a7e6d1494ff2f4d9a59ed81d.js"
+  "/heavystone-react/precache-manifest.bbdf4261a8c570a709192db1bf969549.js"
 );
 
 workbox.clientsClaim();
